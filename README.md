@@ -1,5 +1,4 @@
-# ngo-awareness-website
-A responsive NGO awareness website built using HTML AND CSS to promote social causes and community 
+
 # NGO Awareness Website
 
 A responsive NGO awareness website built using HTML5 and CSS3 to promote social causes and community engagement.
